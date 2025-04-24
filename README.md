@@ -1,4 +1,4 @@
-## CS 8674 - Master Project
+## CS 8674 - Master's Project
 
 This repository consists of the source code for the Master Project. All the notebooks were run on Google Colab using A100 GPU. As the running times were considerably higher, we recommed the graders to also do the same for ease of use. All the additional dependencies were mentioned in the notebook files.
 
